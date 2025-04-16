@@ -1,1 +1,1 @@
-nginx
+postgres/postgres:16.8
