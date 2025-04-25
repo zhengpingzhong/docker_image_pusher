@@ -1,2 +1,4 @@
 #pgvector/pgvector:0.8.0-pg17
-minio/minio:RELEASE.2023-03-20T20-16-18Z
+#minio/minio:RELEASE.2023-03-20T20-16-18Z
+quay.io/coreos/etcd:v3.5.18
+milvusdb/milvus:v2.5.10
