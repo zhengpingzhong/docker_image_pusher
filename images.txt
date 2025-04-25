@@ -1,1 +1,2 @@
-pgvector/pgvector:0.8.0-pg17
+#pgvector/pgvector:0.8.0-pg17
+minio/minio:RELEASE.2023-03-20T20-16-18Z
